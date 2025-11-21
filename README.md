@@ -17,9 +17,8 @@ A lightweight, fully customizable Minecraft advent calendar plugin for Paper 1.2
 
 ### Downloads:
 
-**Modrinth:** https://modrinth.com/plugin/blockmas
-
-**GitHub Releases**
+- **Modrinth:** https://modrinth.com/plugin/blockmas
+- **GitHub Releases**
 
 ### Installation
 1. Download `Blockmas-1.0.0.jar` from releases
