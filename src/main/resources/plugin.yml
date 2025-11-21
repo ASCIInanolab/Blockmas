@@ -1,0 +1,30 @@
+name: Blockmas
+main: dev.blockmas.blockmas.BlockmasPlugin
+version: 1.0.0
+api-version: 1.20
+api: paper
+description: "Blockmas - Advent Calendar Plugin"
+commands:
+  calendar:
+    description: Open the Blockmas calendar
+    usage: /calendar [admin]
+    permission: blockmas.open
+  blockmas:
+    description: Admin commands (reset-playtime, reset-doors, reset-all)
+    usage: /blockmas admin <command> <player>
+    permission: blockmas.admin
+permissions:
+  blockmas.use:
+    default: true
+  blockmas.open:
+    description: Open the calendar
+    default: true
+  blockmas.admin:
+    description: Admin commands for Blockmas
+    default: op
+  blockmas.admin.edit:
+    description: Edit calendar via admin GUI
+    default: op
+  blockmas.admin.give:
+    description: Give day items
+    default: op

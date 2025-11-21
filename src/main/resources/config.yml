@@ -1,0 +1,79 @@
+locale: en
+time-zone: UTC
+start-day: 1
+end-day: 24
+min-play-seconds: 0
+
+items:
+  1:
+    material: DIAMOND
+    amount: 1
+  2:
+    material: GOLD_INGOT
+    amount: 3
+  3:
+    material: IRON_INGOT
+    amount: 4
+  4:
+    material: EMERALD
+    amount: 1
+  5:
+    material: LAPIS_LAZULI
+    amount: 8
+  6:
+    material: COAL
+    amount: 16
+  7:
+    material: BREAD
+    amount: 4
+  8:
+    material: OAK_SAPLING
+    amount: 2
+  9:
+    material: APPLE
+    amount: 2
+  10:
+    material: REDSTONE
+    amount: 6
+  11:
+    material: STONE
+    amount: 16
+  12:
+    material: TORCH
+    amount: 16
+  13:
+    material: BOOK
+    amount: 1
+  14:
+    material: STRING
+    amount: 6
+  15:
+    material: BONE
+    amount: 3
+  16:
+    material: FEATHER
+    amount: 4
+  17:
+    material: RABBIT_FOOT
+    amount: 1
+  18:
+    material: LEATHER
+    amount: 4
+  19:
+    material: COOKED_BEEF
+    amount: 4
+  20:
+    material: GOLDEN_APPLE
+    amount: 1
+  21:
+    material: PRISMARINE_CRYSTALS
+    amount: 4
+  22:
+    material: IRON_INGOT
+    amount: 8
+  23:
+    material: DIAMOND
+    amount: 2
+  24:
+    material: ELYTRA
+    amount: 1
